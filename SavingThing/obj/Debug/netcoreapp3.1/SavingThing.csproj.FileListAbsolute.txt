@@ -1,0 +1,13 @@
+C:\Users\august.agren\Desktop\Visual Studio Code\SavingThing\SavingThing\obj\Debug\netcoreapp3.1\SavingThing.csprojAssemblyReference.cache
+C:\Users\august.agren\Desktop\Visual Studio Code\SavingThing\SavingThing\obj\Debug\netcoreapp3.1\SavingThing.AssemblyInfoInputs.cache
+C:\Users\august.agren\Desktop\Visual Studio Code\SavingThing\SavingThing\obj\Debug\netcoreapp3.1\SavingThing.AssemblyInfo.cs
+C:\Users\august.agren\Desktop\Visual Studio Code\SavingThing\SavingThing\obj\Debug\netcoreapp3.1\SavingThing.csproj.CoreCompileInputs.cache
+C:\Users\august.agren\Desktop\Visual Studio Code\SavingThing\SavingThing\bin\Debug\netcoreapp3.1\SavingThing.exe
+C:\Users\august.agren\Desktop\Visual Studio Code\SavingThing\SavingThing\bin\Debug\netcoreapp3.1\SavingThing.deps.json
+C:\Users\august.agren\Desktop\Visual Studio Code\SavingThing\SavingThing\bin\Debug\netcoreapp3.1\SavingThing.runtimeconfig.json
+C:\Users\august.agren\Desktop\Visual Studio Code\SavingThing\SavingThing\bin\Debug\netcoreapp3.1\SavingThing.runtimeconfig.dev.json
+C:\Users\august.agren\Desktop\Visual Studio Code\SavingThing\SavingThing\bin\Debug\netcoreapp3.1\SavingThing.dll
+C:\Users\august.agren\Desktop\Visual Studio Code\SavingThing\SavingThing\bin\Debug\netcoreapp3.1\SavingThing.pdb
+C:\Users\august.agren\Desktop\Visual Studio Code\SavingThing\SavingThing\obj\Debug\netcoreapp3.1\SavingThing.dll
+C:\Users\august.agren\Desktop\Visual Studio Code\SavingThing\SavingThing\obj\Debug\netcoreapp3.1\SavingThing.pdb
+C:\Users\august.agren\Desktop\Visual Studio Code\SavingThing\SavingThing\obj\Debug\netcoreapp3.1\SavingThing.genruntimeconfig.cache
